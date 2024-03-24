@@ -1,0 +1,3 @@
+Calculating scores for the 2023 Astral Codex Ten prediction contest.  The CSV file of the answers is taken from https://slatestarcodex.com/Stuff/2023blindmode_predictions.csv but I have removed all the demographic answers from after prediction question 50.
+
+Scott Alexander was participant 2030 (zero-indexed) in the CSV file, which I know because the email sent to me with my results included Scott's forecasts as a comparison.  The script computes the rank of Scott's rank and that of the winner, the median superforecaster rank, and then prints a question-by-question breakdown of Scott's and the winner's forecasts and Peer scores.
